@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Here us the onine Hosted build of this project https://netflix-clone-c8a09.web.app
+<h2>Here is the onine Hosted build of this project https://netflix-clone-c8a09.web.app</h2>
 
 ## Available Scripts
 
